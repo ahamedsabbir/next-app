@@ -1,10 +1,9 @@
 import React from 'react'
-import styles from "./page.module.css";
 
-export default function Home() {
+export default function about() {
   return (
     <div className='container'>
-      <h1>Home</h1>
+      <h1>About</h1>
       <p>Checking the network cables, modem, and router Checking the network cables, modem, and router Checking the network cables, modem, and router Checking the network cables, modem, and router Checking the network cables, modem, and router Checking the network cables, modem, and router</p>
     </div>
   );
